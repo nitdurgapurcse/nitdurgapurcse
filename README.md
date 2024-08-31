@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @nitdurgapurcse 
 
-## 💻  NIT Durgapur CSE Resource Hub
+## 💻  NIT Durgapur CSE Resource Archive 
 
 This repository, `nitdurgapurcse`, is your one-stop shop for navigating the world of Computer Science Engineering at NIT Durgapur.  We've compiled a comprehensive collection of resources to help you excel throughout your 4 years.
 
